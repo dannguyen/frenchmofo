@@ -1,0 +1,24 @@
+1
+00:01:25,158 --> 00:01:27,456
+Hello world!!
+Bye world!
+
+
+2
+00:02:28,661 --> 00:02:30,959
+Sometimes nothin' can be a real cool hand
+
+
+3
+00:005:31,731 --> 00:05:33,824
+This is what happens when you find a stranger in the Alps!
+
+
+
+4
+00:20:34,300 --> 00:20:38,498
+- I love you Pumpkin
+- I love you Honey Bunny
+
+
+
